@@ -1,4 +1,6 @@
 ingin mencoba isinya 
-- poin a
+- poin A
 - poin b
 - poin c
+- poin D
+- Poin E
